@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rust-sfu-web/static/css/main.a2a8a1ef.css",
+    "main.js": "/rust-sfu-web/static/js/main.d5efc50d.js",
+    "static/media/sfu_sdk_js_bg.wasm": "/rust-sfu-web/static/media/sfu_sdk_js_bg.550a0f6ffa339e7d8e7d.wasm",
+    "index.html": "/rust-sfu-web/index.html",
+    "main.a2a8a1ef.css.map": "/rust-sfu-web/static/css/main.a2a8a1ef.css.map",
+    "main.d5efc50d.js.map": "/rust-sfu-web/static/js/main.d5efc50d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2a8a1ef.css",
+    "static/js/main.d5efc50d.js"
+  ]
+}
